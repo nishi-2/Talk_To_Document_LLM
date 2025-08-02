@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-ollama
+langchain-community
+faiss-cpu
+openpyxl
+"unstructured[all-docs]"
+tqdm
+charset-normalizer==3.3.0
+protobuf>=3.19
